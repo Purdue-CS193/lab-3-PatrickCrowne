@@ -65,7 +65,7 @@ public class UtilTester {
     public void testUsernameCase() {
         assertEquals("mashbeck", StringUtils.makePurdueUsername("MaTtHeW", "AsHbEcK"));
     }
-
+//
     public static final String simpleTextMessage = "User jhanky, you have been entered to win one year's free " +
             "tuition at Purdue! Reply from your email (jhanky@purdue.edu), please!";
     public static final String simpleTextExpunged = "User [DATA EXPUNGED], you have been entered to win one year's free " +

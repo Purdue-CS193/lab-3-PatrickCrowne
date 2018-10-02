@@ -7,6 +7,7 @@ public class StringUtils {
      * 7 characters. All should be lowercase.
      * Ex: a = "Sean ", b = "Flannery", returns "sflanner"
      */
+    //yes
     public static String makePurdueUsername(String firstName, String lastName) {
         /* Generate the long version of the name first:
             Ex: firstName = "Sean", lastName = "Flannery"
